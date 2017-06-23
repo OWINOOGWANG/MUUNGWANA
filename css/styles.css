@@ -1,5 +1,6 @@
 body {
-  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
   height: inherit;
   margin-bottom: 0;
   margin-top: 0;
@@ -145,7 +146,7 @@ height: 50px;
   border-bottom: 1px solid black;
 }
 <!--burhan-->
-
+</div>
 #footer {
   text-align: top;
   background-color: black;
@@ -157,7 +158,7 @@ height: 50px;
   padding-left: 80%
 }
 #jpg1{
-  padding-left: 80%
+  padding-left: 80%</div>
 }
 #png{
   padding-right: 25%
@@ -183,35 +184,35 @@ font-size: 20%
 }
 ul {
   list-style-type: none;
-  padding-left: 50%
+  padding-left: 50%;
 
 }
 
 
 #rty{
-  padding-left: 5%
+  padding-left: 5%;
 
 }
 #pap{
   padding-right: 10%;
   border-left: 6px solid white;
+  float: right;
 }
 #lll{
-  padding-right: 15%
+  padding-right: 15%;
 }
 #aaa{
-  padding-right: 10%
+  padding-right: 10%;
 }
 #pole{
  border-left: 6px solid white;
  height: auto;
-  padding-left: 5%
+  padding-left: 5%;
 
 }
 #contact{
-
-  padding-right: 6%
-
+  float: left;
+  padding-right: 6%;
 }
 
 
